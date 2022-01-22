@@ -57,7 +57,7 @@
     "mkdir-promise": "^1.0.0",
     "natural": "^0.6.3",
     "next": "^8.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "normalize.css": "^7.0.0",
     "p-queue": "^3.0.0",
     "package-build-stats": "6.2.1",
